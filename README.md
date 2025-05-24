@@ -18,9 +18,3 @@ This is a simple **Graphical User Interface (GUI) Calculator** made using Python
 - ✅ Real-time expression display
 
 ---
-
-
-
-
-
-
